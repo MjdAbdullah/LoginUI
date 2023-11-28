@@ -27,6 +27,8 @@ import com.example.loginui.ui.theme.LoginUITheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        //new commend
         setContent {
             LoginUITheme {
                 // A surface container using the 'background' color from the theme
